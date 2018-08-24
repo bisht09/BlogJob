@@ -1,0 +1,404 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_object"
+			],
+			[
+				"Cour",
+				"CourseUpdateView"
+			],
+			[
+				"ree",
+				"request"
+			],
+			[
+				"Course",
+				"CourseModelForm"
+			],
+			[
+				"Courss",
+				"CourseListView"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"course",
+				"courses"
+			],
+			[
+				"cour",
+				"CoursesView"
+			],
+			[
+				"Ari",
+				"ArticleDeleteView"
+			],
+			[
+				"Arti",
+				"ArticleUpdateView"
+			],
+			[
+				"Detail",
+				"DetailView"
+			],
+			[
+				"Articel",
+				"ArticleModelForm"
+			],
+			[
+				"Create",
+				"CreateView"
+			],
+			[
+				"Article",
+				"ArticleDetailView"
+			],
+			[
+				"produc",
+				"products"
+			],
+			[
+				"product_",
+				"product_list_view"
+			],
+			[
+				"object",
+				"object"
+			],
+			[
+				"http",
+				"Http404"
+			],
+			[
+				"obe",
+				"objects"
+			],
+			[
+				"obj",
+				"obj"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"Product",
+				"ProductForm"
+			],
+			[
+				"cont",
+				"contact_view"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"bakcground",
+				"background-color"
+			],
+			[
+				"pay",
+				"payId"
+			],
+			[
+				"mes",
+				"message"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"messge",
+				"messages"
+			],
+			[
+				"mssg",
+				"mssg_list"
+			],
+			[
+				"unread",
+				"unread_msgs"
+			],
+			[
+				"label",
+				"label_id_two"
+			],
+			[
+				"dataP",
+				"dataProvider"
+			],
+			[
+				"Up",
+				"UploadedFile"
+			],
+			[
+				"attac",
+				"attachement"
+			],
+			[
+				"count",
+				"countBranches"
+			],
+			[
+				"company",
+				"company_start_date"
+			],
+			[
+				"companies",
+				"companies_company_id"
+			],
+			[
+				"model",
+				"models"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sergeant/Development/BlogJob/src",
+		"/home/sergeant/Development/BlogJob/src/BlogJob"
+	],
+	"file_history":
+	[
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/courses/models.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/courses/forms.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/courses/admin.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/courses/templates/courses/course_create.html",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/courses/templates/courses/courses_list.html",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/DrizzleBox/urls.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/courses/templates/courses/courses_detail.html",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/blog/views.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/blog/urls.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/blog/templates/blog/article_create.html",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/blog/forms.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/blog/models.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/blog/templates/blog/article_delete.html",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/DrizzleBox/settings.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/blog/templates/blog/article_list.html",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/db.sqlite3",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/Blog/urls.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/Blog/models.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/Blog/forms.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/Blog/views.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/Blog/admin.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/Blog/templates/Blog/article_detail.html",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/Blog/templates/Blog/article_list.html",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/products/views.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/products/templates/products/product_list.html",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/products/models.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/products/templates/products/product_create.html",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/products/urls.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/products/templates/products/product_delete.html",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/products/templates/products/product_detail.html",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/products/forms.py",
+		"/home/sergeant/Downloads/test_cases_55g7pdk9oce/input001.txt",
+		"/home/sergeant/Downloads/test_cases_55g7pdk9oce/output001.txt",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/templates/products/details.html",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/pages/views.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/templates/about.html",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/products/admin.py",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/templates/base.html",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/templates/contact.html",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/templates/home.html",
+		"/home/sergeant/Development/DrizzleBox/DrizzleBox/templates/navbar.html",
+		"/var/www/html/tarang/boat.html",
+		"/home/sergeant/CP1/UVa10258.cpp",
+		"/home/sergeant/CP1/UVa10258",
+		"/home/sergeant/Google_API/Gmail/CSV_NAME.csv",
+		"/home/sergeant/Google_API/Gmail/drafts.py",
+		"/var/www/html/advanced/backend/controllers/EmailsController.php",
+		"/var/www/html/advanced/backend/views/companies/_form.php",
+		"/var/www/html/advanced/backend/views/emails/_form.php",
+		"/var/www/html/advanced/frontend/controllers/SiteController.php",
+		"/var/www/html/advanced/frontend/assets/AppAsset.php",
+		"/var/www/html/advanced/backend/config/main.php",
+		"/var/www/html/advanced/frontend/web/css/site.css",
+		"/var/www/html/advanced/frontend/views/layouts/main.php",
+		"/var/www/html/billfree-web/sql/billfree_dbback_08062017.sql",
+		"/var/www/html/advanced/backend/config/params.php",
+		"/var/www/html/advanced/backend/controllers/CompaniesController.php",
+		"/var/www/html/advanced/backend/views/departments/_form.php",
+		"/var/www/html/advanced/backend/controllers/BranchesController.php",
+		"/var/www/html/advanced/backend/models/Companies.php",
+		"/var/www/html/advanced/backend/views/branches/_form.php",
+		"/var/www/html/advanced/vendor/yiisoft/yii2/web/UploadedFile.php",
+		"/var/www/html/advanced/backend/views/companies/index.php",
+		"/var/www/html/advanced/backend/views/branches/index.php",
+		"/var/www/html/advanced/backend/controllers/DepartmentsController.php",
+		"/var/www/html/advanced/backend/models/Branches.php",
+		"/var/www/html/advanced/backend/views/departments/index.php",
+		"/var/www/html/advanced/backend/models/Departments.php",
+		"/var/www/html/advanced/backend/models/BranchesSearch.php",
+		"/var/www/html/advanced/frontend/models/SignupForm.php",
+		"/var/www/html/advanced/frontend/views/site/signup.php",
+		"/var/www/html/basic/models/userForm.php",
+		"/var/lib/phpmyadmin/config.inc.php",
+		"/var/www/html/basic/models/Users.php",
+		"/var/www/html/basic/views/users/index.php",
+		"/var/www/html/basic/models/UserForm.php",
+		"/var/www/html/basic/views/site/userForm.php",
+		"/var/www/html/basic/models/USers.php",
+		"/var/www/html/basic/views/site/hello.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
