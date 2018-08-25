@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title>Index Page</title>
+</head>
+<body>
+	<h1>{{title}}</h1>
+	{% for instance in object_list %}
+		{{instance.id}}<br/>
+		{{instance.title}}<br/>
+		{{instance.content}}<br/>
+		{{instance.updated}}<br/>
+		{{instance.timestamp}}<br/>
+	{% endfor %}
+</body>
+</html>
