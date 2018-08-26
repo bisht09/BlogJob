@@ -5,7 +5,7 @@
 <body>
 	<h1>{{title}}</h1>
 	{% for instance in object_list %}
-		<br/>
+		<br/><a href='{% url "posts:update" id=instance.id %}'>Edit</a><br/>
 		{% url "posts:detail" id=instance.id %}<br/>
 		<a href='{{ instance.get_absolute_url }}' >{{instance.id}}</a><br/>
 		<a href='{{ instance.get_absolute_url }}' >{{instance.title}}</a><br/>
